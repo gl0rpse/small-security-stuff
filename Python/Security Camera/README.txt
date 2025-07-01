@@ -1,2 +1,1 @@
-Utilizes openCV as a resource to detect faces. Once the program detects a face in frame, it will print "I'm watching you" in the terminal. It will then start recording using whatever camera has priority on your device. After about 3 seconds of no facial detection,
-the program will stop recording and save the video to your local storage.
+Utilizes openCV as a resource to detect faces. Once the program detects a face in frame, it will print "I'm watching you" in the terminal. It will then start recording using whatever camera has priority on your device. After about 3 seconds of no facial detection, the program will stop recording and save the video to your local storage.
